@@ -148,7 +148,7 @@ def main():
     '''
     
     player1 = Fighter(input('Enter name of player 1: '))
-    player2 = Fighter(input('Enter name of player 1: '))
+    player2 = Fighter(input('Enter name of player 2: '))
     i = 1
     while True:
         print('='*19 + ' ROUND ' + str(i) + ' ' + '='*19)
